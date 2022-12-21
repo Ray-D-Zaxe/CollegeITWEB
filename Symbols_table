@@ -1,0 +1,65 @@
+<!doctype html5>
+<html>
+<head>
+<title>Symbols</title>
+</head>
+<body>
+<table>
+	<caption>Symbols in HTML</caption>
+<thead>	<tr>
+		<th>S. No.</th><th>Symbol</th><th>Symbol Code &</th><th>Symbol No. Code &</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1</td><td>&curren</td><td>curren</td><td>#164</td>
+	</tr>
+	<tr>
+		<td>2</td><td>&cent</td><td>cent</td><td>#162</td>
+	</tr>
+	<tr>
+		<td>3</td><td>&pound</td><td>pound</td><td>#163</td>
+	</tr>
+	<tr>
+		<td>4</td><td>&yen</td><td>yen</td><td>#165</td>
+	</tr>
+	<tr>
+		<td>5</td><td>&copy</td><td>copy</td><td>#169</td>
+	</tr>
+	<tr>
+		<td>6</td><td>&not</td><td>not</td><td>#172</td>
+	</tr>
+	<tr>
+		<td>7</td><td>&shy</td><td>shy</td><td>#173</td>
+	</tr>
+	<tr>
+		<td>8</td><td>&reg</td><td>reg</td><td>#174</td>
+	</tr>
+	<tr>
+		<td>9</td><td>&trade</td><td>trade</td><td>#8482</td>
+	</tr>
+	<tr>
+		<td>10</td><td>&macr</td><td>macr</td><td>#175</td>
+	</tr>
+	<tr>
+		<td>11</td><td>&deg</td><td>deg</td><td>#176</td>
+	</tr>
+	<tr>
+		<td>12</td><td>&plusmn</td><td>plusmn</td><td>#177</td>
+	</tr>
+	<tr>
+		<td>13</td><td>&micro</td><td>micro</td><td>#181</td>
+	</tr>
+	<tr>
+		<td>14</td><td>&para</td><td>para</td><td>#182</td>
+	</tr>
+	<tr>
+		<td>15</td><td>&middot</td><td>middot</td><td>#183</td>
+	</tr>
+	<tr>
+		<td>16</td><td>&cedil</td><td>cedil</td><td>#184</td>
+	</tr>
+</tbody>
+</table>
+</body>
+</html>
